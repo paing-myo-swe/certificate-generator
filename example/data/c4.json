@@ -1,0 +1,56 @@
+[
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "THIS CERTIFICATE IS PRESENTED TO",
+    "position": ["center", 210],
+    "font_path": "fonts/Roboto/Roboto-Bold.ttf",
+    "font_size": 26,
+    "font_color": "#000"
+  },
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "Mr. John Doe",
+    "position": ["center", "center"],
+    "font_path": "fonts/Scary/Scary-Movie.ttf",
+    "font_size": 120,
+    "font_color": "#093f7f"
+  },
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+    "position": ["center", 500],
+    "font_path": "fonts/Roboto/Roboto-Bold.ttf",
+    "font_size": 26,
+    "font_color": "#212529"
+  },
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "Lorem ipsum dolor sit amet.",
+    "position": ["center", 550],
+    "font_path": "fonts/Roboto/Roboto-Bold.ttf",
+    "font_size": 26,
+    "font_color": "#212529"
+  },
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "Date",
+    "position": ["left", 700],
+    "font_path": "fonts/Amandez/Amandez-Personal.ttf",
+    "font_size": 22,
+    "font_color": "#000"
+  },
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "Signature",
+    "position": ["right", 700],
+    "font_path": "fonts/Amandez/Amandez-Personal.ttf",
+    "font_size": 22,
+    "font_color": "#000"
+  }
+]

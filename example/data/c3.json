@@ -1,0 +1,30 @@
+[
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "Mr. John Doe",
+    "position": [620, "center"],
+    "font_path": "fonts/Scary/Scary-Movie.ttf",
+    "font_size": 120,
+    "font_color": "#093f7f"
+  },
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "01/01/2025",
+    "position": [500, 670],
+    "font_path": "fonts/Amandez/Amandez-Personal.ttf",
+    "font_size": 28,
+    "font_color": "#000"
+  },
+  {
+    "type": "image",
+    "image_path": "example/logos/signature1.png",
+    "image_resize": [140, 140],
+    "text": "",
+    "position": [1010, 600],
+    "font_path": "",
+    "font_size": "",
+    "font_color": ""
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "CERTIFICATE",
+    "position": ["center", 280],
+    "font_path": "fonts/Amandez/Amandez-Personal.ttf",
+    "font_size": 100,
+    "font_color": "#56698e"
+  },
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "THIS CERTIFICATE IS PRESENTED TO",
+    "position": ["center", 420],
+    "font_path": "fonts/Roboto/Roboto-Bold.ttf",
+    "font_size": 40,
+    "font_color": "#000"
+  },
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "Mr. John Doe",
+    "position": ["center", "center"],
+    "font_path": "fonts/Scary/Scary-Movie.ttf",
+    "font_size": 120,
+    "font_color": "#093f7f"
+  },
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+    "position": ["center", 700],
+    "font_path": "fonts/Roboto/Roboto-Bold.ttf",
+    "font_size": 26,
+    "font_color": "#b3b7bf"
+  },
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "Lorem ipsum dolor sit amet,",
+    "position": ["center", 750],
+    "font_path": "fonts/Roboto/Roboto-Bold.ttf",
+    "font_size": 26,
+    "font_color": "#b3b7bf"
+  },
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "Lorem ipsum.",
+    "position": ["center", 800],
+    "font_path": "fonts/Roboto/Roboto-Bold.ttf",
+    "font_size": 26,
+    "font_color": "#b3b7bf"
+  },
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "Date",
+    "position": ["left", 900],
+    "font_path": "fonts/Amandez/Amandez-Personal.ttf",
+    "font_size": 32,
+    "font_color": "#000"
+  },
+  {
+    "type": "image",
+    "image_path": "example/logos/logo1.png",
+    "image_resize": [140, 140],
+    "text": "",
+    "position": ["center", 900],
+    "font_path": "",
+    "font_size": "",
+    "font_color": ""
+  },
+  {
+    "type": "text",
+    "image_path": "",
+    "text": "Signature",
+    "position": ["right", 900],
+    "font_path": "fonts/Amandez/Amandez-Personal.ttf",
+    "font_size": 32,
+    "font_color": "#000"
+  }
+]
