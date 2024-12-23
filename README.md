@@ -1,6 +1,6 @@
 # Certificate Generator
 
-#### Video Demo: <URL HERE>
+#### Video Demo: [Demo Video Link](https://youtu.be/FyXI-B7gb40)
 
 #### Description:
 
@@ -13,11 +13,9 @@ This is my final project of CS50P:CS50's Introduction to Programming with Python
 - Image insertion to image
 - Customizable font, size and color of text
 - Customizable position x, y of text and image
-- Generatable image file and PDF file
+- Generate image file and PDF file
 
 #### Technologies Used
-
-Python, OS, Json, Sys, Pytest and Pillow's Image, ImageDraw, ImageFont
 
 #### Clone The Project
 
@@ -63,16 +61,16 @@ $ python project.py
 
 #### Getting Started
 
-There are sample imports for certificate backgrounds and information JSON under example/backgrounds/ and example/data/ folder. Font files are under fonts/ folder.
+There are sample input for certificate backgrounds and information JSON under example/backgrounds/ and example/data/ folder. Font files are under fonts/ folder.
 
-- Import the path of certificate background image
+- Input the path of certificate background image
 - Enter example/backgrounds/cb1.jpg
 
 ```
 Enter the certificate background Image path: example/backgrounds/cb1.jpg
 ```
 
-- Import the path of certificate information JSON
+- Input the path of certificate information JSON
 - Enter example/data/c1.json
 
 ```
@@ -83,7 +81,7 @@ Enter the certificate information JSON path: example/data/c1.json
 
 - When the file does not exist or is not a valid image file, you will see "An error occurred: File does not exist or is not a valid image file."
 - When the file does not exist or is not a valid JSON file, you will see "An error occurred: File does not exist or is not a valid JSON file."
-- The import JSON file must contain these keys
+- The input JSON file must contain these keys
   - "type": string
   - "position": array
   - "text": string
